@@ -8,8 +8,8 @@ API REST pour gérer des cours et des catégories avec authentification.
 - Remplir les champs requis (Port d'écoute et Clé JWT)
 - Exécuter à la racine les commandes suivantes :
 
-`npm install`
-`npm run seed`
+`npm install`<br>
+`npm run seed`<br>
 `npm start`
 
 Le serveur tourne sur http://localhost:{PORT}.
