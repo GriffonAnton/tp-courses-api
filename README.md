@@ -14,11 +14,11 @@ API REST pour gérer des cours et des catégories avec authentification.
 
 Le serveur tourne sur http://localhost:{PORT}.
 
-Les tests tournent sur jest (npm run test)
+Les tests tournent sur jest ( `npm run test` )
 
 ## Base de données
 
-Le projet utilise SQLite. La base de données se rempli avec le seed (npm run seed) 
+Le projet utilise SQLite. La base de données se rempli avec le seed ( `npm run seed` ) 
 
 ## Authentification
 
