@@ -4,13 +4,13 @@ API REST pour gérer des cours et des catégories avec authentification.
 
 ## Installation
 
-Dupliquer .env.example et le renommer .env
-Remplir les champs requis (Port d'écoute et Clé JWT)
-Exécuter à la racine les commandes suivantes :
+- Dupliquer .env.example et le renommer .env
+- Remplir les champs requis (Port d'écoute et Clé JWT)
+- Exécuter à la racine les commandes suivantes :
 
-npm install
-npm run seed
-npm start
+`npm install`
+`npm run seed`
+`npm start`
 
 Le serveur tourne sur http://localhost:{PORT}.
 
